@@ -66,8 +66,8 @@ namespace TappyTale.BossFight.Editor.Demo
             GameObject lightObject = new("Directional Light");
             Light light = lightObject.AddComponent<Light>();
             light.type = LightType.Directional;
-            light.intensity = 1.2f;
-            lightObject.transform.rotation = Quaternion.Euler(50f, -30f, 0f);
+            light.intensity = 2.2f;
+            lightObject.transform.rotation = Quaternion.Euler(35f, 150f, 0f);
 
             BossDemoProfile profile = AssetDatabase.LoadAssetAtPath<BossDemoProfile>(
                 BossFrameworkInstaller.DataFolder + "/DemoProfile_BossFightDemo.asset");
