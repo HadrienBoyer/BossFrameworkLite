@@ -1,0 +1,20 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement name="root-container" class="root-container">
+        <ui:VisualElement name="top-bar" class="top-bar">
+            <ui:VisualElement class="brand-box">
+                <ui:Label text="TAPPY TALE" class="brand-badge" />
+                <ui:Label text="Boss Fight Framework" class="brand-title" />
+                <ui:Label text="Unity 6000.4 • URP • Data-Driven Studio" class="brand-subtitle" />
+            </ui:VisualElement>
+            <ui:VisualElement name="top-actions" class="top-actions" />
+        </ui:VisualElement>
+        <ui:VisualElement name="body-split" class="body-split">
+            <ui:ScrollView name="sidebar" class="sidebar" />
+            <ui:VisualElement name="main-workspace" class="main-workspace">
+                <ui:VisualElement name="section-header" class="section-header" />
+                <ui:VisualElement name="content-area" class="content-area" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="status-bar" class="status-bar" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 83f94b9edc10af646aa85cc18951505e
+timeCreated: 1470343034
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Scripts/Global Scripts/SoundManager.cs
+  uploadId: 971474

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ea77a58a47756be44a55cda4ea584fa4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Scripts/Helping/MoveableObjectSoundHandler.cs
+  uploadId: 971474

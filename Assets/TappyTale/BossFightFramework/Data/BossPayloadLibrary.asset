@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7de9d74fba77f457785c28380dbcc065, type: 3}
+  m_Name: BossPayloadLibrary
+  m_EditorClassIdentifier: TappyTale.BossFight.Runtime::TappyTale.BossFight.Data.BossPayloadLibrary
+  projectiles:
+  - {fileID: 11400000, guid: ec8cee27eda674988ad3892f183a53c3, type: 2}
+  patterns:
+  - {fileID: 11400000, guid: dea5cac7062ec4372b7002432d2f3a6e, type: 2}
+  - {fileID: 11400000, guid: 7596a6ffb6952464190303d4f0dde7a9, type: 2}
+  telegraphs:
+  - {fileID: 11400000, guid: dfe8cd89ba6c34d1b8a89cd686cbd5ac, type: 2}
+  - {fileID: 11400000, guid: e71c6ae343320473f988121fb3a79fd8, type: 2}
+  audioCues:
+  - {fileID: 11400000, guid: 7f31e89b13f1d470cbb37cdde2ee24d0, type: 2}
+  - {fileID: 11400000, guid: 067030e3b9a5c4c7f8b7b211cdd07797, type: 2}
+  vfx:
+  - {fileID: 11400000, guid: 64ceb58f926be4ab68938aae133aa2c4, type: 2}
+  cameraShakes:
+  - {fileID: 11400000, guid: d0fbed9552a8142b0b08b015defe9a12, type: 2}
+  - {fileID: 11400000, guid: f2d1d369b1c864f4586f57e4bc319664, type: 2}

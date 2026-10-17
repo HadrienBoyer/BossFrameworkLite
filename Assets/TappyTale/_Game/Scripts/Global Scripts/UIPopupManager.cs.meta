@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0fb7502a903d0634f87da45700fbe326
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Scripts/Global Scripts/UIPopupManager.cs
+  uploadId: 971474

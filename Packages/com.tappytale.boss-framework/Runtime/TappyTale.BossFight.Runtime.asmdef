@@ -1,0 +1,14 @@
+{
+  "name": "TappyTale.BossFight.Runtime",
+  "rootNamespace": "TappyTale.BossFight",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6693d673777164cfe83ba4de976d1734, type: 3}
+  m_Name: Pattern_SpreadArc
+  m_EditorClassIdentifier: TappyTale.BossFight.Runtime::TappyTale.BossFight.Projectiles.ProjectilePatternDefinition
+  id: spread_arc
+  displayName: Spread Arc
+  kind: 2
+  projectile: {fileID: 11400000, guid: ec8cee27eda674988ad3892f183a53c3, type: 2}
+  count: 5
+  waves: 2
+  interval: 0.08
+  waveInterval: 0.22
+  arc: 55
+  angularOffset: 0
+  spiralStepAngle: 22.5
+  speedMultiplier: 1

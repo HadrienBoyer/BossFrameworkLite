@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ed271b18ff53346419ca25cbd72aa05d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Interactables/Pickable Item (Black).prefab
+  uploadId: 971474

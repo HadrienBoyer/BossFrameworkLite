@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d82ed36083e1e404f9a227d231ee3977
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Interactables/Switch Lever.prefab
+  uploadId: 971474

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a32698bc4280ab946a5963c179e125bd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Pick Indicator.prefab
+  uploadId: 971474

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7bb142606a0a48bb85abce2ccd37365, type: 3}
+  m_Name: Player_Starter
+  m_EditorClassIdentifier: TappyTale.BossFight.Runtime::TappyTale.BossFight.Player.PlayerDefinition
+  id: starter_player
+  displayName: Duelist Player
+  themeColor: {r: 0.2, g: 0.72, b: 0.95, a: 1}
+  walkSpeed: 4.2
+  moveSpeed: 8
+  sprintSpeed: 11.5
+  acceleration: 55
+  deceleration: 70
+  airControl: 0.8
+  rotationSharpness: 24
+  gravity: -32
+  jumpHeight: 2.2
+  coyoteTime: 0.12
+  jumpBufferTime: 0.12
+  additionalAirJumps: 1
+  dashSpeed: 20
+  dashDuration: 0.18
+  dashCooldown: 0.35
+  dashBufferTime: 0.15
+  allowAirDash: 1
+  invulnerableDuringDash: 1
+  maxHealth: 120
+  hitInvulnerabilityDuration: 0.35
+  staggerDuration: 0.28
+  knockbackSpeed: 6
+  lightAttackDamage: 22
+  lightAttackStagger: 18
+  lightAttackDuration: 0.36
+  lightAttackActiveStart: 0.08
+  lightAttackActiveEnd: 0.22
+  lightAttackCancelTime: 0.24
+  heavyAttackDamage: 45
+  heavyAttackStagger: 42
+  heavyAttackDuration: 0.62
+  heavyAttackActiveStart: 0.18
+  heavyAttackActiveEnd: 0.38
+  heavyAttackCancelTime: 0.45
+  attackLungeSpeed: 5.5
+  attackRange: 2.4
+  attackBufferTime: 0.16
+  parryWindowDuration: 0.24
+  parryDuration: 0.38
+  parryCooldown: 0.45
+  parryBufferTime: 0.14
+  parryDeflectRadius: 3.2
+  dodgeSpeed: 16
+  dodgeDuration: 0.24
+  dodgeCooldown: 0.35
+  invulnerableDuringDodge: 1
+  lockOnRange: 24
+  lockOnBreakDistance: 30
+  allowSoftLock: 1
+  strafeSpeedMultiplier: 0.88
+  animatorController: {fileID: 9100000, guid: 2d102063ddaf843e08ba2f1d4de400a8, type: 2}
+  idleClip: {fileID: 8993902097722301239, guid: ab86468edd7e61e4698862a5eeedb281, type: 3}
+  walkClip: {fileID: 8993902097722301239, guid: d13b3b853e429ba4690c7672c2a1fe94, type: 3}
+  runClip: {fileID: 8993902097722301239, guid: faf1e13cad9c7b045a88eb901937ee2d, type: 3}
+  sprintClip: {fileID: 8993902097722301239, guid: 6e622a83c06454744bc846877efc8c57, type: 3}
+  strafeForwardClip: {fileID: 0}
+  strafeBackClip: {fileID: 0}
+  strafeLeftClip: {fileID: 8993902097722301239, guid: aeaac0b259cd0ba43a999e5070ab8945, type: 3}
+  strafeRightClip: {fileID: 8993902097722301239, guid: 7626aab6e903b2d44905d0c54a4901d1, type: 3}
+  jumpClip: {fileID: 0}
+  dashClip: {fileID: 0}
+  lightAttackClip: {fileID: 0}
+  heavyAttackClip: {fileID: 0}
+  parryClip: {fileID: 0}
+  staggerClip: {fileID: 0}
+  deathClip: {fileID: 0}
+  attackAudioCue: {fileID: 0}
+  parryAudioCue: {fileID: 0}
+  hitAudioCue: {fileID: 0}
+  attackVfx: {fileID: 0}
+  parryVfx: {fileID: 0}
+  hitCameraShake: {fileID: 0}
+  parryHitstopDuration: 0.05
+  spawnGhostTrailOnDash: 1

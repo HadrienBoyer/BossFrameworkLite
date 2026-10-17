@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aead3a15214e4c438c0649a92eba167, type: 3}
+  m_Name: Projectile_Default
+  m_EditorClassIdentifier: TappyTale.BossFight.Runtime::TappyTale.BossFight.Projectiles.ProjectileDefinition
+  id: default_projectile
+  displayName: Projectile
+  prefab: {fileID: 3917379581052194593, guid: d3a46fa4a1eeb463ca601b8de7bd493f, type: 3}
+  color: {r: 1, g: 0.35, b: 0.15, a: 1}
+  speed: 12
+  lifetime: 5
+  damage: 12
+  radius: 0.25
+  homingStrength: 0
+  canBeParried: 1
+  deflectedSpeedMultiplier: 1.4
+  deflectedDamageMultiplier: 2

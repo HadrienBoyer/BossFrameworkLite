@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33e1e0bb71f20ce4a8bf12facfa544bc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/UI/Notification.prefab
+  uploadId: 971474

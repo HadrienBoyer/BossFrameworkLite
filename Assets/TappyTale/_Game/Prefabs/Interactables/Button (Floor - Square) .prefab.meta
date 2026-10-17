@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c2f87b08c60a9b040b71d4c56a507390
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Interactables/Button (Floor - Square) .prefab
+  uploadId: 971474

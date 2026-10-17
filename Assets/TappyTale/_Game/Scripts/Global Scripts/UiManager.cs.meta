@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 12651b86b552f0645b00f912d75fb45a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Scripts/Global Scripts/UiManager.cs
+  uploadId: 971474

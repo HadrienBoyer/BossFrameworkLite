@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 77728ce08e783f74d8552b5ab984c323
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Scripts/Helping/FadeImg.cs
+  uploadId: 971474

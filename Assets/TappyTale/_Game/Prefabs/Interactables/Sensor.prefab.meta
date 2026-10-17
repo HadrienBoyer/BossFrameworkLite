@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 898b5ea74c4d2c3479a4dc9df68c954c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Interactables/Sensor.prefab
+  uploadId: 971474

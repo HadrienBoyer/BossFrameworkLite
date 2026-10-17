@@ -1,0 +1,66 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# IDE & Solution files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS & Archives
+.DS_Store
+Thumbs.db
+*.zip
+
+# Unity crash reports
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+
+# Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Excluded third-party / heavy asset packs (keep Assets/TappyTale, Assets/Settings, Assets/Scenes)
+/Assets/Animations/
+/Assets/Animations.meta
+/Assets/Audio/
+/Assets/Audio.meta
+/Assets/Fonts/
+/Assets/Fonts.meta
+/Assets/Models/
+/Assets/Models.meta
+/Assets/Plugins/
+/Assets/Plugins.meta
+/Assets/Tessera/
+/Assets/Tessera.meta
+/Assets/Vfx/
+/Assets/Vfx.meta
+/Assets/New Terrain.asset
+/Assets/New Terrain.asset.meta
+

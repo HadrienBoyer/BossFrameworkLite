@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf67b028a55834194b0e1a8e3c8b654e, type: 3}
+  m_Name: Phase_Two
+  m_EditorClassIdentifier: TappyTale.BossFight.Runtime::TappyTale.BossFight.Phases.BossPhaseDefinition
+  id: phase_two
+  displayName: Phase II - Overdrive
+  enterAtNormalizedHealth: 0.55
+  resetCooldownsOnEnter: 1
+  invulnerabilityOnEnter: 0.65
+  moveSpeedMultiplier: 1.18
+  cooldownMultiplier: 0.82
+  entryAudioCueId: boss_nova
+  entryVfxId: impact_burst
+  entryCameraShakeId: 
+  attacks:
+  - {fileID: 11400000, guid: ed025d1eaed9f4483ba9a8746c3b5c54, type: 2}
+  - {fileID: 11400000, guid: 5c02344b3f75f445d9c1563668f9deba, type: 2}
+  - {fileID: 11400000, guid: 960b4aa2eb4804ea28a1a516562b569d, type: 2}

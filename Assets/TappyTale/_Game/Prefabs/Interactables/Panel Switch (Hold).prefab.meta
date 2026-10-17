@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea7b0412a0ca38d47ac1da0858d030f1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Interactables/Panel Switch (Hold).prefab
+  uploadId: 971474

@@ -1,0 +1,263 @@
+{
+  "generatedAtUtc": "2026-10-07T22:00:59.4808810Z",
+  "fileCount": 1115,
+  "cSharpCount": 94,
+  "assetCount": 39,
+  "prefabCount": 26,
+  "sceneCount": 2,
+  "rootModules": [
+    ".DS_Store",
+    "Animator",
+    "Animator.meta",
+    "Art",
+    "Art.meta",
+    "AvatarMask",
+    "AvatarMask.meta",
+    "Data",
+    "Data.meta",
+    "Editor",
+    "Editor.meta",
+    "Inputs",
+    "Inputs.meta",
+    "Integrations",
+    "Integrations.meta",
+    "Prefabs",
+    "Prefabs.meta",
+    "Shaders",
+    "Shaders.meta",
+    "Zombie Profiles",
+    "Zombie Profiles.meta"
+  ],
+  "editorWindows": [
+    "TappyTale.EditorTools.BatchTextureSourceResizerWindow",
+    "TappyTale.EditorTools.ChildPatternPlacementWindow",
+    "TappyTale.EditorTools.GameStudio.GameStudioToolsWindow",
+    "TappyTale.EditorTools.ModelMaterialLocationFixerWindow",
+    "TappyTale.HorrorController.HSZombieBridge.Editor.HSCharacterCreatorWindow",
+    "TappyTale.HorrorController.HSZombieBridge.Editor.HSItemRiggingWindow",
+    "TappyTale.HorrorController.HSZombieBridge.Editor.HSProfileBrowserWindow",
+    "TappyTale.HorrorController.HSZombieBridge.Editor.HSProfileRenameWindow",
+    "TappyTale.HorrorController.HSZombieBridge.Editor.HSProfileTypesWindow",
+    "TappyTale.Integrations.Audio.BarkGenerator.Editor.BarkGeneratorWindow",
+    "TappyTale.Performance.EditorTools.PerformanceOptimizerWindow"
+  ],
+  "customEditors": [],
+  "menuItems": [
+    "Tools/Tappy Tale/Diagnostics/Find Invalid AABB",
+    "Tools/Tappy Tale/Horror LUTs/Reimport & Validate All",
+    "Tools/Tappy Tale/Integrations/Audio/Bark Generator",
+    "Tools/Tappy Tale/Models/Fix Material Location",
+    "Tools/Tappy Tale/Performance Optimizer",
+    "Tools/Tappy Tale/Textures/Batch Resize Source Textures"
+  ],
+  "tools": [
+    {
+      "id": "traffic",
+      "displayName": "Traffic & Crowd",
+      "group": "World",
+      "detected": false,
+      "folders": [],
+      "types": [],
+      "menuItems": []
+    },
+    {
+      "id": "crowd-builder",
+      "displayName": "DED Crowd Builder",
+      "group": "World",
+      "detected": false,
+      "folders": [],
+      "types": [],
+      "menuItems": []
+    },
+    {
+      "id": "zombies",
+      "displayName": "GC2 Zombie Factory",
+      "group": "Characters",
+      "detected": false,
+      "folders": [],
+      "types": [],
+      "menuItems": []
+    },
+    {
+      "id": "radio",
+      "displayName": "Radio Voice",
+      "group": "Audio",
+      "detected": true,
+      "folders": [],
+      "types": [],
+      "menuItems": [
+        "Tools/Tappy Tale/Integrations/Audio/Bark Generator"
+      ]
+    },
+    {
+      "id": "performance",
+      "displayName": "Performance Optimizer",
+      "group": "Performance",
+      "detected": true,
+      "folders": [],
+      "types": [
+        "TappyTale.Performance.PerformanceProfile"
+      ],
+      "menuItems": [
+        "Tools/Tappy Tale/Performance Optimizer"
+      ]
+    },
+    {
+      "id": "child-patterns",
+      "displayName": "Child Pattern Placement",
+      "group": "Design",
+      "detected": true,
+      "folders": [],
+      "types": [
+        "TappyTale.EditorTools.ChildPatternPlacementWindow"
+      ],
+      "menuItems": []
+    },
+    {
+      "id": "boss-framework",
+      "displayName": "Boss Framework",
+      "group": "Gameplay",
+      "detected": false,
+      "folders": [],
+      "types": [],
+      "menuItems": []
+    },
+    {
+      "id": "arpg-controller",
+      "displayName": "ARPG Controller",
+      "group": "Gameplay",
+      "detected": false,
+      "folders": [],
+      "types": [],
+      "menuItems": []
+    },
+    {
+      "id": "ttfpc",
+      "displayName": "TTFPC",
+      "group": "Gameplay",
+      "detected": false,
+      "folders": [],
+      "types": [],
+      "menuItems": []
+    },
+    {
+      "id": "framework",
+      "displayName": "Game Framework",
+      "group": "Modules",
+      "detected": false,
+      "folders": [],
+      "types": [],
+      "menuItems": []
+    },
+    {
+      "id": "dynamic-TappyTale.EditorTools.BatchTextureSourceResizerWindow",
+      "displayName": "Batch Texture Source Resizer",
+      "group": "Modules",
+      "detected": true,
+      "folders": [],
+      "types": [
+        "TappyTale.EditorTools.BatchTextureSourceResizerWindow"
+      ],
+      "menuItems": []
+    },
+    {
+      "id": "dynamic-TappyTale.EditorTools.GameStudio.GameStudioToolsWindow",
+      "displayName": "Game Studio Tools",
+      "group": "Modules",
+      "detected": true,
+      "folders": [],
+      "types": [
+        "TappyTale.EditorTools.GameStudio.GameStudioToolsWindow"
+      ],
+      "menuItems": []
+    },
+    {
+      "id": "dynamic-TappyTale.EditorTools.ModelMaterialLocationFixerWindow",
+      "displayName": "Model Material Location Fixer",
+      "group": "Modules",
+      "detected": true,
+      "folders": [],
+      "types": [
+        "TappyTale.EditorTools.ModelMaterialLocationFixerWindow"
+      ],
+      "menuItems": []
+    },
+    {
+      "id": "dynamic-TappyTale.HorrorController.HSZombieBridge.Editor.HSCharacterCreatorWindow",
+      "displayName": "HS Character Creator",
+      "group": "Characters",
+      "detected": true,
+      "folders": [],
+      "types": [
+        "TappyTale.HorrorController.HSZombieBridge.Editor.HSCharacterCreatorWindow"
+      ],
+      "menuItems": []
+    },
+    {
+      "id": "dynamic-TappyTale.HorrorController.HSZombieBridge.Editor.HSItemRiggingWindow",
+      "displayName": "HS Item Rigging",
+      "group": "Characters",
+      "detected": true,
+      "folders": [],
+      "types": [
+        "TappyTale.HorrorController.HSZombieBridge.Editor.HSItemRiggingWindow"
+      ],
+      "menuItems": []
+    },
+    {
+      "id": "dynamic-TappyTale.HorrorController.HSZombieBridge.Editor.HSProfileBrowserWindow",
+      "displayName": "HS Profile Browser",
+      "group": "Characters",
+      "detected": true,
+      "folders": [],
+      "types": [
+        "TappyTale.HorrorController.HSZombieBridge.Editor.HSProfileBrowserWindow"
+      ],
+      "menuItems": []
+    },
+    {
+      "id": "dynamic-TappyTale.HorrorController.HSZombieBridge.Editor.HSProfileRenameWindow",
+      "displayName": "HS Profile Rename",
+      "group": "Characters",
+      "detected": true,
+      "folders": [],
+      "types": [
+        "TappyTale.HorrorController.HSZombieBridge.Editor.HSProfileRenameWindow"
+      ],
+      "menuItems": []
+    },
+    {
+      "id": "dynamic-TappyTale.HorrorController.HSZombieBridge.Editor.HSProfileTypesWindow",
+      "displayName": "HS Profile Types",
+      "group": "Characters",
+      "detected": true,
+      "folders": [],
+      "types": [
+        "TappyTale.HorrorController.HSZombieBridge.Editor.HSProfileTypesWindow"
+      ],
+      "menuItems": []
+    },
+    {
+      "id": "dynamic-TappyTale.Integrations.Audio.BarkGenerator.Editor.BarkGeneratorWindow",
+      "displayName": "Bark Generator",
+      "group": "Audio",
+      "detected": true,
+      "folders": [],
+      "types": [
+        "TappyTale.Integrations.Audio.BarkGenerator.Editor.BarkGeneratorWindow"
+      ],
+      "menuItems": []
+    },
+    {
+      "id": "dynamic-TappyTale.Performance.EditorTools.PerformanceOptimizerWindow",
+      "displayName": "Performance Optimizer",
+      "group": "Performance",
+      "detected": true,
+      "folders": [],
+      "types": [
+        "TappyTale.Performance.EditorTools.PerformanceOptimizerWindow"
+      ],
+      "menuItems": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "com.tappytale.boss-framework",
+  "version": "1.0.0",
+  "displayName": "Boss Fight Framework",
+  "description": "Data-driven boss fight and player combat framework for Unity 6000.4+ with URP demos, UI Toolkit central editor, and typed PlayerPrefs management.",
+  "unity": "6000.4",
+  "unityRelease": "11f1",
+  "author": {
+    "name": "Tappy Tale",
+    "url": "https://github.com/HadrienBoyer/Boss-Fight-Framework",
+    "email": "contact@tappytale.co"
+  },
+  "keywords": [
+    "boss",
+    "combat",
+    "action",
+    "player-controller",
+    "bullet-hell",
+    "scriptableobject",
+    "ui-toolkit",
+    "urp"
+  ],
+  "dependencies": {
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Boss Duel Lab & Starter Demos",
+      "description": "Generate Boss Duel Lab, Boss Fight Demo, and Player Core Demo from Tools > Tappy Tale > Boss Fight Framework.",
+      "path": "Samples~/BossDuelLab"
+    }
+  ]
+}

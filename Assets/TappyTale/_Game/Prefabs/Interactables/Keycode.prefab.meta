@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a6fb38e27fa8ab4da85f080001350b4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Interactables/Keycode.prefab
+  uploadId: 971474

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 76da2517714194d44965df3f689f6971
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Interactables/Panel Light Switch.prefab
+  uploadId: 971474

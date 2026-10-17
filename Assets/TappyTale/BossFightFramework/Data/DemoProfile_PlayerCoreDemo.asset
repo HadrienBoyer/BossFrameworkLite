@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32cfbf9ab85f54d5e91d3018c037941c, type: 3}
+  m_Name: DemoProfile_PlayerCoreDemo
+  m_EditorClassIdentifier: TappyTale.BossFight.Runtime::TappyTale.BossFight.Data.BossDemoProfile
+  id: player_core_demo
+  displayName: Player Core Demo
+  demoKind: 2
+  description: Player locomotion, jump buffering, coyote time, dash, and combat responsiveness
+    test arena.
+  scenePath: Assets/TappyTale/BossFightFramework/Demo/PlayerCoreDemo.unity
+  preferencesProfile: duel_lab
+  arenaRadius: 16
+  playerSpawnPosition: {x: 0, y: 1.05, z: -6.5}
+  bossSpawnPosition: {x: 0, y: 1.35, z: 4.5}
+  arenaFloorColor: {r: 0.18, g: 0.2, b: 0.24, a: 1}
+  arenaBorderColor: {r: 0.95, g: 0.48, b: 0.15, a: 1}
+  database: {fileID: 11400000, guid: 233e56323195b4402a4982e6afda791f, type: 2}
+  bossDefinition: {fileID: 0}
+  payloadLibrary: {fileID: 11400000, guid: 0bdf1ed7f0ba84573bd2b528ecab4f3e, type: 2}
+  playerDefinition: {fileID: 11400000, guid: d6c6acd35ce274833b61ec7fd1915399, type: 2}
+  phases: []
+  attacks: []
+  timelines: []
+  projectiles: []
+  patterns: []
+  telegraphs: []
+  audioCues: []
+  vfx: []
+  cameraShakes: []

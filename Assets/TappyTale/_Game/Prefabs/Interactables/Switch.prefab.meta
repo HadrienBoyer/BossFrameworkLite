@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 566579cabdbeb17468b6988c3188b625
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Interactables/Switch.prefab
+  uploadId: 971474

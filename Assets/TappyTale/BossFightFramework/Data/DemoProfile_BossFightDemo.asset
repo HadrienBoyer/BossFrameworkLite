@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32cfbf9ab85f54d5e91d3018c037941c, type: 3}
+  m_Name: DemoProfile_BossFightDemo
+  m_EditorClassIdentifier: TappyTale.BossFight.Runtime::TappyTale.BossFight.Data.BossDemoProfile
+  id: boss_fight_demo
+  displayName: Boss Fight Demo
+  demoKind: 1
+  description: Focused Boss AI & Timeline runner sandbox scene.
+  scenePath: Assets/TappyTale/BossFightFramework/Demo/BossFightDemo.unity
+  preferencesProfile: duel_lab
+  arenaRadius: 16
+  playerSpawnPosition: {x: 0, y: 1.05, z: -6.5}
+  bossSpawnPosition: {x: 0, y: 1.35, z: 4.5}
+  arenaFloorColor: {r: 0.18, g: 0.2, b: 0.24, a: 1}
+  arenaBorderColor: {r: 0.95, g: 0.48, b: 0.15, a: 1}
+  database: {fileID: 11400000, guid: 233e56323195b4402a4982e6afda791f, type: 2}
+  bossDefinition: {fileID: 11400000, guid: 530123d5a8313466081a33d5d262c30e, type: 2}
+  payloadLibrary: {fileID: 11400000, guid: 0bdf1ed7f0ba84573bd2b528ecab4f3e, type: 2}
+  playerDefinition: {fileID: 11400000, guid: d6c6acd35ce274833b61ec7fd1915399, type: 2}
+  phases:
+  - {fileID: 11400000, guid: e5dfd0b40a6df4d3d8f0e7181c076cab, type: 2}
+  - {fileID: 11400000, guid: 44ae199f75405408784dea67663f8e4d, type: 2}
+  attacks:
+  - {fileID: 11400000, guid: ed025d1eaed9f4483ba9a8746c3b5c54, type: 2}
+  - {fileID: 11400000, guid: 5c02344b3f75f445d9c1563668f9deba, type: 2}
+  - {fileID: 11400000, guid: 960b4aa2eb4804ea28a1a516562b569d, type: 2}
+  timelines:
+  - {fileID: 11400000, guid: 2ba550dcf5d7f4cb1bc9105f037462dd, type: 2}
+  - {fileID: 11400000, guid: 85f532ed6bbd64a4d8bae00f523cc698, type: 2}
+  - {fileID: 11400000, guid: 3d916fa19afbf43c49e2c33e5c3cd7dd, type: 2}
+  projectiles:
+  - {fileID: 11400000, guid: ec8cee27eda674988ad3892f183a53c3, type: 2}
+  patterns:
+  - {fileID: 11400000, guid: dea5cac7062ec4372b7002432d2f3a6e, type: 2}
+  telegraphs:
+  - {fileID: 11400000, guid: dfe8cd89ba6c34d1b8a89cd686cbd5ac, type: 2}
+  - {fileID: 11400000, guid: e71c6ae343320473f988121fb3a79fd8, type: 2}
+  audioCues: []
+  vfx: []
+  cameraShakes: []

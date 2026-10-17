@@ -1,0 +1,25 @@
+{
+  "name": "TappyTale.BossFight.InputSystem",
+  "rootNamespace": "TappyTale.BossFight.InputSystem",
+  "references": [
+    "TappyTale.BossFight.Runtime",
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [
+    "TAPPYTALE_INPUTSYSTEM_AVAILABLE"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.unity.inputsystem",
+      "expression": "1.0.0",
+      "define": "TAPPYTALE_INPUTSYSTEM_AVAILABLE"
+    }
+  ],
+  "noEngineReferences": false
+}

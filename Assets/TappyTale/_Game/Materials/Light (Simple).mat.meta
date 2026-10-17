@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa01d33082fd3b84399ef20be30820f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Materials/Light (Simple).mat
+  uploadId: 971474

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 94cd8f6aa6e5439691e6463c2e3599d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Scripts/Helping/Tweening/EaseEvaluator.cs
+  uploadId: 971474

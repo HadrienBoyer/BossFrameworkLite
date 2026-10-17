@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 192d2433c0bef49e6bb023b6deb41a6c, type: 3}
+  m_Name: Boss_Starter
+  m_EditorClassIdentifier: TappyTale.BossFight.Runtime::TappyTale.BossFight.Data.BossDefinition
+  id: starter_boss
+  displayName: Starter Boss
+  description: Data-driven combat encounter.
+  maxHealth: 500
+  staggerThreshold: 100
+  baseStaggerDuration: 2.2
+  moveSpeed: 3.5
+  rotationSpeed: 10
+  preferredCombatDistance: 2.6
+  themeColor: {r: 0.85, g: 0.22, b: 0.18, a: 1}
+  scale: {x: 1.25, y: 1.35, z: 1.25}
+  phases:
+  - {fileID: 11400000, guid: e5dfd0b40a6df4d3d8f0e7181c076cab, type: 2}

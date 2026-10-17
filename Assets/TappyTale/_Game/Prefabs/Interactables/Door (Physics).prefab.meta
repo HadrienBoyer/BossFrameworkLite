@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0505ee0b889892b43ada7140ae43bca6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Interactables/Door (Physics).prefab
+  uploadId: 971474

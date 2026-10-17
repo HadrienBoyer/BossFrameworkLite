@@ -1,0 +1,25 @@
+{
+  "name": "TappyTale.BossFight.Cinemachine",
+  "rootNamespace": "TappyTale.BossFight.Cinemachine",
+  "references": [
+    "TappyTale.BossFight.Runtime",
+    "Unity.Cinemachine"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [
+    "TAPPYTALE_CINEMACHINE_AVAILABLE"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.unity.cinemachine",
+      "expression": "3.0.0",
+      "define": "TAPPYTALE_CINEMACHINE_AVAILABLE"
+    }
+  ],
+  "noEngineReferences": false
+}

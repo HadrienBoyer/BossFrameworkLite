@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 13b059ff2285a4b48b4436679b05f891
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Interactables/Pickable Item (Yellow).prefab
+  uploadId: 971474

@@ -1,0 +1,61 @@
+{
+  "files": [
+    {
+      "path": "Assets/TappyTale/Editor/GameStudioTools/EmbeddedEditorWindowHost.cs",
+      "brace_balance": 0,
+      "paren_balance": 0,
+      "bracket_balance": 0,
+      "if_balance": 0,
+      "todo": false
+    },
+    {
+      "path": "Assets/TappyTale/Editor/GameStudioTools/GameStudioAuditExporter.cs",
+      "brace_balance": 0,
+      "paren_balance": 0,
+      "bracket_balance": 0,
+      "if_balance": 0,
+      "todo": false
+    },
+    {
+      "path": "Assets/TappyTale/Editor/GameStudioTools/GameStudioInlineInspector.cs",
+      "brace_balance": 0,
+      "paren_balance": 0,
+      "bracket_balance": 0,
+      "if_balance": 0,
+      "todo": false
+    },
+    {
+      "path": "Assets/TappyTale/Editor/GameStudioTools/GameStudioKnownTools.cs",
+      "brace_balance": 0,
+      "paren_balance": 0,
+      "bracket_balance": 0,
+      "if_balance": 0,
+      "todo": false
+    },
+    {
+      "path": "Assets/TappyTale/Editor/GameStudioTools/GameStudioProjectScanner.cs",
+      "brace_balance": 0,
+      "paren_balance": 0,
+      "bracket_balance": 0,
+      "if_balance": 0,
+      "todo": false
+    },
+    {
+      "path": "Assets/TappyTale/Editor/GameStudioTools/GameStudioToolDefinition.cs",
+      "brace_balance": 0,
+      "paren_balance": 0,
+      "bracket_balance": 0,
+      "if_balance": 0,
+      "todo": false
+    },
+    {
+      "path": "Assets/TappyTale/Editor/GameStudioTools/GameStudioToolsWindow.cs",
+      "brace_balance": 0,
+      "paren_balance": 0,
+      "bracket_balance": 0,
+      "if_balance": 0,
+      "todo": false
+    }
+  ],
+  "status": "PASS"
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 004f11db537c037419d51a55ac080347
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/UI/CodeMachine.prefab
+  uploadId: 971474

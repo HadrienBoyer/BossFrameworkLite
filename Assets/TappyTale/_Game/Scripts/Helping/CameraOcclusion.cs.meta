@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d075f212d02bb934b99a790d62717aa4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Scripts/Helping/CameraOcclusion.cs
+  uploadId: 971474

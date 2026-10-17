@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7a63c954128d8b4fb0600fcb1afeb95
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Interactables/Card Machine.prefab
+  uploadId: 971474

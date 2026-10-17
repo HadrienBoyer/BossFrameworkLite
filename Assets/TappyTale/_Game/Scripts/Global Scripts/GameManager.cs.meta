@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 05fb5d20f71a6224aa0a9d2b4895ddcb
+timeCreated: 1470557132
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Scripts/Global Scripts/GameManager.cs
+  uploadId: 971474

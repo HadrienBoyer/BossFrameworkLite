@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4222155e001b7a04a8e3a7eaaed42cf8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/Interactables/Cube Placement.prefab
+  uploadId: 971474

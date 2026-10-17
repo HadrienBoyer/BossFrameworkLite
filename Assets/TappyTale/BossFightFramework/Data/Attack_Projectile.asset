@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dc482809491244e39b3c9c164fc175d, type: 3}
+  m_Name: Attack_Projectile
+  m_EditorClassIdentifier: TappyTale.BossFight.Runtime::TappyTale.BossFight.Attacks.BossAttackDefinition
+  id: projectile
+  displayName: Attack
+  kind: 2
+  timeline: {fileID: 11400000, guid: 85f532ed6bbd64a4d8bae00f523cc698, type: 2}
+  cooldown: 2.5
+  minimumRange: 2
+  maximumRange: 20
+  selectionWeight: 1
+  priority: 0
+  canBeParried: 0
+  canBePerfectDodged: 1
+  interruptOnParry: 1
+  staggerDurationOnParry: 2.2
+  punishDamageMultiplier: 1.5

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 89b48b5575703ca479dad1cb7c6127bc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Prefabs/UI/Fail.prefab
+  uploadId: 971474

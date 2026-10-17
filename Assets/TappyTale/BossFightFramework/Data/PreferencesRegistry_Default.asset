@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c20417a951ee44850834deae3b8118df, type: 3}
+  m_Name: PreferencesRegistry_Default
+  m_EditorClassIdentifier: TappyTale.BossFight.Runtime::TappyTale.BossFight.Preferences.BossPreferencesRegistry
+  defaultProfile: default
+  knownProfiles:
+  - default
+  - duel_lab
+  - playtest
+  keys:
+  - key: duel.fights_started
+    valueType: 0
+    category: Duel Telemetry
+    description: Total number of boss duels started in this profile.
+    defaultInt: 0
+    defaultFloat: 0
+    defaultString: 
+  - key: duel.victories
+    valueType: 0
+    category: Duel Telemetry
+    description: Total number of boss victories recorded.
+    defaultInt: 0
+    defaultFloat: 0
+    defaultString: 
+  - key: duel.defeats
+    valueType: 0
+    category: Duel Telemetry
+    description: Total number of player defeats recorded.
+    defaultInt: 0
+    defaultFloat: 0
+    defaultString: 
+  - key: duel.parries_landed
+    valueType: 0
+    category: Duel Telemetry
+    description: Total number of successful parries triggered during boss reaction
+      windows.
+    defaultInt: 0
+    defaultFloat: 0
+    defaultString: 
+  - key: duel.perfect_dodges
+    valueType: 0
+    category: Duel Telemetry
+    description: Total number of successful perfect dodges triggered.
+    defaultInt: 0
+    defaultFloat: 0
+    defaultString: 
+  - key: duel.best_victory_time
+    valueType: 1
+    category: Duel Telemetry
+    description: Fastest boss defeat time in seconds (0 = none recorded).
+    defaultInt: 0
+    defaultFloat: 0
+    defaultString: 
+  - key: duel.last_boss_id
+    valueType: 2
+    category: Duel Telemetry
+    description: Identifier of the last boss fought in this profile.
+    defaultInt: 0
+    defaultFloat: 0
+    defaultString: starter_boss
+  - key: settings.sfx_volume
+    valueType: 1
+    category: Audio & Feedback
+    description: Master volume multiplier for combat audio cues (0..1).
+    defaultInt: 0
+    defaultFloat: 0.85
+    defaultString: 
+  - key: settings.camera_shake_scale
+    valueType: 1
+    category: Audio & Feedback
+    description: Multiplier for camera shake amplitude (0..2).
+    defaultInt: 0
+    defaultFloat: 1
+    defaultString: 
+  - key: hud.show_combat_prompts
+    valueType: 0
+    category: HUD & Readability
+    description: Whether to display Parry / Dodge reaction prompts on HUD (1 = enabled,
+      0 = disabled).
+    defaultInt: 1
+    defaultFloat: 0
+    defaultString: 
+  - key: debug.show_telemetry
+    valueType: 0
+    category: Debug
+    description: Whether to display live state telemetry on the demo HUD (1 = enabled,
+      0 = disabled).
+    defaultInt: 1
+    defaultFloat: 0
+    defaultString: 

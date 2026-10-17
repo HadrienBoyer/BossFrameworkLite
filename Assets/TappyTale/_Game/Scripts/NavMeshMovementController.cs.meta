@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b2dbeb932488d194cabe1c505d3afe73
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Scripts/NavMeshMovementController.cs
+  uploadId: 971474

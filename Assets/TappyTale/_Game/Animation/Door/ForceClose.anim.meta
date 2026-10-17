@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9452678376b5b0429210574f73e273f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389880
+  packageName: MSJ - Top Down Character Controller
+  packageVersion: 1.0
+  assetPath: Assets/MSJ-TDCC/Animation/Door/ForceClose.anim
+  uploadId: 971474
