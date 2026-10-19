@@ -489,8 +489,8 @@ ModelImporter:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     optimizeGameObjects: 0
-    motionNodeName: 
-    pivotNodeName: 
+    motionNodeName:
+    pivotNodeName:
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
@@ -1370,17 +1370,10 @@ ModelImporter:
     armStretch: .0500000007
     legStretch: .0500000007
     feetSpacing: 0
-    rootMotionBoneName: 
+    rootMotionBoneName:
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: e8914d097ece7cc48a83d5fccd4098c0,
     type: 3}
   animationType: 3
   additionalBone: 0
-  userData: 
-  assetBundleName: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 389880
-  packageName: MSJ - Top Down Character Controller
-  packageVersion: 1.0
-  assetPath: Assets/MSJ-TDCC/Animation/Humanoid/Animation/HumanoidIdle.fbx
-  uploadId: 971474
+  userData:
+  assetBundleName:

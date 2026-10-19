@@ -65,27 +65,27 @@ MonoBehaviour:
   lockOnBreakDistance: 30
   allowSoftLock: 1
   strafeSpeedMultiplier: 0.88
-  animatorController: {fileID: 9100000, guid: 2d102063ddaf843e08ba2f1d4de400a8, type: 2}
+  animatorController: {fileID: 9100000, guid: 3f38a6cc0e96c4cb4b2c4aae58122116, type: 2}
   idleClip: {fileID: 8993902097722301239, guid: ab86468edd7e61e4698862a5eeedb281, type: 3}
   walkClip: {fileID: 8993902097722301239, guid: d13b3b853e429ba4690c7672c2a1fe94, type: 3}
   runClip: {fileID: 8993902097722301239, guid: faf1e13cad9c7b045a88eb901937ee2d, type: 3}
   sprintClip: {fileID: 8993902097722301239, guid: 6e622a83c06454744bc846877efc8c57, type: 3}
-  strafeForwardClip: {fileID: 0}
-  strafeBackClip: {fileID: 0}
-  strafeLeftClip: {fileID: 8993902097722301239, guid: aeaac0b259cd0ba43a999e5070ab8945, type: 3}
-  strafeRightClip: {fileID: 8993902097722301239, guid: 7626aab6e903b2d44905d0c54a4901d1, type: 3}
-  jumpClip: {fileID: 0}
-  dashClip: {fileID: 0}
-  lightAttackClip: {fileID: 0}
-  heavyAttackClip: {fileID: 0}
-  parryClip: {fileID: 0}
-  staggerClip: {fileID: 0}
-  deathClip: {fileID: 0}
-  attackAudioCue: {fileID: 0}
-  parryAudioCue: {fileID: 0}
-  hitAudioCue: {fileID: 0}
-  attackVfx: {fileID: 0}
-  parryVfx: {fileID: 0}
-  hitCameraShake: {fileID: 0}
+  strafeForwardClip: {fileID: 8993902097722301239, guid: fb7be0b49424ba74ca778bc678a54dfc, type: 3}
+  strafeBackClip: {fileID: 8993902097722301239, guid: 8141360c830095f4fa0707e1b505d729, type: 3}
+  strafeLeftClip: {fileID: 8993902097722301239, guid: cd93ac5928808ec4ea11774635b3ea38, type: 3}
+  strafeRightClip: {fileID: 8993902097722301239, guid: acafec4b5442a19438f155649a82e796, type: 3}
+  jumpClip: {fileID: 8993902097722301239, guid: fa13da0ff0baa4d48a5a73724e81eec5, type: 3}
+  dashClip: {fileID: 8993902097722301239, guid: ec0c2b3847f52644f992575235adecfb, type: 3}
+  lightAttackClip: {fileID: 8993902097722301239, guid: 707c588a2bdc699448f97dd09a95a8b2, type: 3}
+  heavyAttackClip: {fileID: 8993902097722301239, guid: 4713bea00c198b045914bf6ee2018029, type: 3}
+  parryClip: {fileID: 8993902097722301239, guid: c1f93e6b95e7d664ea56a633479d63c3, type: 3}
+  staggerClip: {fileID: 8993902097722301239, guid: e820a520f56a3cd4e8cc083ebbd8463e, type: 3}
+  deathClip: {fileID: 8993902097722301239, guid: 7013f7309badd7241bcc40dbd7bf2a89, type: 3}
+  attackAudioCue: {fileID: 11400000, guid: 7f31e89b13f1d470cbb37cdde2ee24d0, type: 2}
+  parryAudioCue: {fileID: 11400000, guid: 7f31e89b13f1d470cbb37cdde2ee24d0, type: 2}
+  hitAudioCue: {fileID: 11400000, guid: 067030e3b9a5c4c7f8b7b211cdd07797, type: 2}
+  attackVfx: {fileID: 11400000, guid: 64ceb58f926be4ab68938aae133aa2c4, type: 2}
+  parryVfx: {fileID: 11400000, guid: 64ceb58f926be4ab68938aae133aa2c4, type: 2}
+  hitCameraShake: {fileID: 11400000, guid: d0fbed9552a8142b0b08b015defe9a12, type: 2}
   parryHitstopDuration: 0.05
   spawnGhostTrailOnDash: 1

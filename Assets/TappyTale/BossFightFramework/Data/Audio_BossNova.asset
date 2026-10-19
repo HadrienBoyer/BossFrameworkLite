@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: TappyTale.BossFight.Runtime::TappyTale.BossFight.Feedback.AudioCueDefinition
   id: boss_nova
   displayName: Audio Cue
-  clips: []
+  clips:
+  - {fileID: 8300000, guid: c4564ee023ec6415b8b541432e451d7e, type: 3}
   volume: 0.9
   pitchRange: {x: 0.95, y: 1.05}
   spatial: 1

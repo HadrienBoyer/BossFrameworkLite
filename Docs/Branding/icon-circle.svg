@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="256" fill="#17191C"/>
+  <circle cx="256" cy="256" r="228" fill="none" stroke="#F5A642" stroke-opacity=".4" stroke-width="2"/>
+  <image href="mark.svg" x="77" y="77" width="358" height="358"/>
+</svg>

@@ -121,21 +121,15 @@ TextureImporter:
     spriteID: e9ec0b5bdb52daa44b50cf90208b17ca
     internalID: 0
     vertices: []
-    indices: 
+    indices:
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable: {}
-  spritePackingTag: 
+  spritePackingTag:
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 389880
-  packageName: MSJ - Top Down Character Controller
-  packageVersion: 1.0
-  assetPath: Assets/MSJ-TDCC/Images/UI/Circle Outline - Stroke 14px.png
-  uploadId: 971474
+  userData:
+  assetBundleName:
+  assetBundleVariant:
+

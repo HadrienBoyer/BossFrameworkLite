@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 256" fill="none">
+  <rect width="1120" height="256" rx="22" fill="#17191C"/>
+  <g transform="translate(34 22) scale(.82)">
+    <path d="M128 18 226 74v108l-98 56-98-56V74l98-56Z" stroke="#F4F0E8" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M128 39 207 84v87l-79 46-79-46V84l79-45Z" stroke="#F5A642" stroke-opacity=".75" stroke-width="2"/>
+    <path d="M128 59 185 92v65l-57 33-57-33V92l57-33Z" fill="#F5A642" fill-opacity=".1" stroke="#F5A642" stroke-width="2"/>
+    <path d="m128 73 16 37 39 18-39 18-16 38-16-38-39-18 39-18 16-37Z" fill="#F5A642"/>
+    <path d="M128 91v70M93 128h70" stroke="#191A1C" stroke-width="5" stroke-linecap="square"/><circle cx="128" cy="128" r="8" fill="#F4F0E8"/>
+    <path d="M128 18v20M226 74l-17 10M226 182l-19-11M128 238v-21M30 182l19-11M30 74l17 10" stroke="#F4F0E8" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="275" y="119" fill="#F4F0E8" font-family="Inter, Avenir Next, Arial, sans-serif" font-size="63" font-weight="800" letter-spacing="5">BOSS FIGHT</text>
+  <text x="280" y="174" fill="#F5A642" font-family="Inter, Avenir Next, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="8">FRAMEWORK</text>
+  <text x="280" y="211" fill="#AAA9A3" font-family="Inter, Avenir Next, Arial, sans-serif" font-size="17" font-weight="500" letter-spacing="2">DATA-DRIVEN COMBAT · UNITY 6</text>
+</svg>

@@ -123,28 +123,22 @@ TextureImporter:
     serializedVersion: 2
     sprites: []
     outline: []
-    customData: 
+    customData:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
     internalID: 1537655665
     vertices: []
-    indices: 
+    indices:
     edges: []
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
     nameFileIdTable: {}
-  mipmapLimitGroupName: 
+  mipmapLimitGroupName:
   pSDRemoveMatte: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 389880
-  packageName: MSJ - Top Down Character Controller
-  packageVersion: 1.0
-  assetPath: Assets/MSJ-TDCC/Images/UI/Square.png
-  uploadId: 971474
+  userData:
+  assetBundleName:
+  assetBundleVariant:
+

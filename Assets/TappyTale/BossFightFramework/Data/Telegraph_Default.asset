@@ -17,11 +17,11 @@ MonoBehaviour:
   shape: 0
   anchor: 1
   duration: 0.5
-  radius: 10
+  radius: 6
   length: 4
   angle: 90
   forwardOffset: 1.5
-  color: {r: 1, g: 0.45, b: 0.1, a: 0.65}
+  color: {r: 0.9795473, g: 1, b: 0.10196078, a: 0.65}
   dangerColor: {r: 1, g: 0.12, b: 0.12, a: 0.85}
   intensity:
     serializedVersion: 2

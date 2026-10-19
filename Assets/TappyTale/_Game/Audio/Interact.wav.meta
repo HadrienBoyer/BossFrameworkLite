@@ -18,13 +18,6 @@ AudioImporter:
   loadInBackground: 1
   ambisonic: 0
   3D: 1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 389880
-  packageName: MSJ - Top Down Character Controller
-  packageVersion: 1.0
-  assetPath: Assets/MSJ-TDCC/Audio/Interact.wav
-  uploadId: 971474
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,5 +1,7 @@
 # Tappy Tale — Boss Fight Framework (`com.tappytale.boss-framework`)
 
+![Boss Fight Framework — GitHub social preview](Branding/social-preview.png)
+
 Data-driven **Boss & Player Combat Framework** for **Unity 6 (`6000.4`+)** and **Universal Render Pipeline (URP)**, featuring a central **UI Toolkit Studio EditorWindow** for authoring ScriptableObject combat definitions, generating/duplicating playable URP demos, validating references, and inspecting/editing scoped `PlayerPrefs` save profiles.
 
 ---
@@ -125,4 +127,8 @@ tappytale.bossframework.<profile>.<key>
 
 - **EditMode Tests:** Located in `Packages/com.tappytale.boss-framework/Tests/EditMode/BossFrameworkEditModeTests.cs`. Run via Unity **Window > General > Test Runner > EditMode**.
 - **Editor Asset Validator:** Run via **`Tools > Tappy Tale > Boss Fight Framework > Run Full Validation`** or the **Validation** tab in the Studio Window.
+
+## 8. Branding Assets
+
+The repository includes a GitHub-ready visual identity pack in [`Branding/`](Branding/README.md): SVG emblems and wordmarks, PNG icons, and a 1280 × 640 social preview. Upload `Branding/social-preview.png` in the repository's **Settings → General → Social preview** to use it on GitHub.
 

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#17191C"/>
+  <path d="M48 256h54M410 256h54M256 48v54M256 410v54" stroke="#F5A642" stroke-opacity=".55" stroke-width="2"/>
+  <image href="mark.svg" x="77" y="77" width="358" height="358"/>
+</svg>

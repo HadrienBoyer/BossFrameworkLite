@@ -6,13 +6,7 @@ MonoImporter:
   defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 389880
-  packageName: MSJ - Top Down Character Controller
-  packageVersion: 1.0
-  assetPath: Assets/MSJ-TDCC/Scripts/Helping/EventTriggerSystem.cs
-  uploadId: 971474
+  userData:
+  assetBundleName:
+  assetBundleVariant:
+
